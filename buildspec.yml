@@ -17,5 +17,4 @@ phases:
 
 artifacts:
   type: zip
-  files:
-  - template.yml
+ 
