@@ -19,5 +19,3 @@ artifacts:
   type: zip
   files:
   - template.yml
-  - ouputtemplate.yaml
- 
