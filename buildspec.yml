@@ -20,5 +20,9 @@ artifacts:
   files:
   - main.go
   - template.yml
-  - build.sh
+  base-directory: $Lambda-Function_PHS
+  files:
+        - build.sh
+
+
   
